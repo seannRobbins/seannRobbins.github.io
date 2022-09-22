@@ -6,6 +6,22 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.underline {
+  text-decoration: underline;
+}
+
+.float-container {
+  border: 3px solid rgb(255, 255, 255);
+  padding: 5px;
+}
+
+.float-child {
+  width: 40%;
+  float: left;
+  /* padding: 5px; */
+  border: 2px solid rgb(255, 255, 255);
+}  
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
