@@ -6,9 +6,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.sideHeaders {
+  font-size: large;
+  font-weight: bold;
+  color: black;
+  padding-bottom: 2%;
+}
+
 .underline {
   text-decoration: underline;
-  padding-bottom: 2%;
 }
 
 .float-container {
